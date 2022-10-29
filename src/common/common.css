@@ -1,0 +1,16 @@
+ul,ol,li{
+    list-style: none;
+}
+a:link, a:visited, a:hover, a:active,a:hover {
+    text-decoration: none;
+}
+a:hover{
+    color: #4a596f
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+a,p,span{
+    font-family: "Helvetica Neue", "Helvetica", "Arial", "Microsoft YaHei", "微软雅黑", "PingFang SC", "sans-serif";
+}
